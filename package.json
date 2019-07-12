@@ -15,7 +15,7 @@
   "dependencies": {
     "date-fns": "^1.29.0",
     "deployment": "^0.2.3",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "react": "^15.6.2",
     "react-dom": "^15.6.2"
   },
